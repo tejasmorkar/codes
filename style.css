@@ -28,6 +28,10 @@
     height: 200px;
 }
 
+#left-container > p {
+    text-align: center;
+}
+
 #icons {
     display: flex;
     flex-wrap: wrap;
